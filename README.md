@@ -4,4 +4,4 @@ This repository contains the programs that I have written at the time of learnin
 
 Contact: 
 
-Shreyash Patodia: [patodiashreyash32@gmail.com](patodiashreyash32@gmail.com)
+Shreyash Patodia: <patodiashreyash32@gmail.com>
